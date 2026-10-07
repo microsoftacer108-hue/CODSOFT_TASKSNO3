@@ -1,0 +1,3 @@
+**Task 3: ATM Interface**
+
+As part of my **CodSoft** internship, I developed an ATM Interface using Java with a simple console-based design. The project consists of an ATM class and a BankAccount class that work together to manage banking operations. The user can check their balance, deposit money, withdraw money, or exit the application. The program also validates transactions, including checking for valid amounts and sufficient balance before withdrawal. This task helped me understand Java classes, objects, methods, encapsulation, object interaction, input validation, and basic banking transaction logic.
